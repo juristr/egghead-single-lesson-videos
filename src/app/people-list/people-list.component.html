@@ -1,0 +1,10 @@
+<h1>People</h1>
+
+<button mat-raised-button color="primary" (click)="onFetchPeople()">Fetch people</button>
+<button mat-raised-button color="primary" (click)="onForceReload()">Force reload</button>
+
+<hr />
+
+<div *ngFor="let person of people | async">
+  {{ person.name }}
+</div>

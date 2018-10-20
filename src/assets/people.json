@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Juri Strumpflohner",
+    "website": "https://juristr.com",
+    "twitter": "https://twitter.com/juristr"
+  },
+  {
+    "name": "Jack",
+    "id": 2
+  },
+  {
+    "name": "Piper",
+    "id": 3
+  }
+]
